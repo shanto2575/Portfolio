@@ -12,8 +12,15 @@ const projects = [
     github: "https://github.com/shanto2575/The-Daily-News",
   },
   {
+    title: "TileCarft",
+    image: "https://i.ibb.co.com/zW1VGN2K/Tile-Carft.png",
+    tags: ["nextjs", "MongoDB", "Better-Auth"],
+    demo: "https://tile-craft.vercel.app",
+    github: "https://github.com/shanto2575/TileCraft",
+  },
+  {
     title: "Pixgen AI Image",
-    image: "https://i.ibb.co.com/wNHbKTQM/pixgen.png",
+    image: "https://i.ibb.co.com/whxqQjM9/Pix.png",
     tags: ["React", "AI", "Tailwind"],
     demo: "https://pixgen-ai-image.vercel.app",
     github: "https://github.com/shanto2575/Pixgen-Ai-Image",
@@ -32,13 +39,7 @@ const projects = [
     demo: "https://keep-keepers.vercel.app",
     github: "https://github.com/shanto2575/KeenKeeper",
   },
-  {
-    title: "Foodi",
-    image: "https://i.ibb.co.com/BHGg605N/foodi.png",
-    tags: ["React", "Node.js", "MongoDB"],
-    demo: "https://foodi-lac-ten.vercel.app",
-    github: "https://github.com/shanto2575/Foodi",
-  },
+
   {
     title: "Coming Soon...",
     image: "https://picsum.photos/seed/soon/600/600",
